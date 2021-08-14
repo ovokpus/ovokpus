@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Ovo. Welcome to my Profile Page! 👋
 
 --
 **ovokpus/ovokpus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
