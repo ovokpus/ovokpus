@@ -1,10 +1,8 @@
-# Hi there, my name is Ovo. Welcome to my Profile Page! 👋
+# Hi there, Welcome to my Profile Page! I am glad you made it this far... 👋
 
 <div align="right">
     <img src="https://komarev.com/ghpvc/?username=ovokpus" alt="ovokpus"> 
 </div>
-
-<div align="right"><img src="img/img1.jpg"></div>
 
 <h3 align="center"><em>I am a Technical Specialist with a keen focus on Data Science and Machine Learning Development.</em></h3>
 
@@ -14,6 +12,8 @@
 <p>I enjoy working with data, discovering valuable insights that help solve problems for businesses and other types of organizations.</p>
 
 <p>I also love programming and am enhancing my skills in Python, JavaScript, Microsoft C#(.NET Core), and SQL (for database design, development and administration). I also gaining real world experience with Big Data and Cloud computing platforms that are utulized in Machine Learning and Business Intelligence Analytics job roles.</p>
+
+<div align="right"><img src="img/img1.jpg"></div>
 
 <p>This is a sampling of the work I have been doing for the past couple of years, since I made a major career pivot into Data Science. Programming and developing solutions within the data space has become my passion and pursuit. I place a high value on personal growth and making positive contributions in a friendly team environment, and I am looking to do just that to help organizations build and develop their data strategy.</p>
 
