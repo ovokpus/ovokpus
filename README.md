@@ -17,7 +17,9 @@
 <div align="right"><img src="img/img1.jpg"></div>
 </hr>
 
+<hr>
 <p>This is a sampling of the work I have been doing for the past couple of years, since I made a major career pivot into Data Science. Programming and developing solutions within the data space has become my passion and pursuit. I place a high value on personal growth and making positive contributions in a friendly team environment, and I am looking to do just that to help organizations build and develop their data strategy.</p>
+</hr>
 
 <hr>
 <h2> Some things you should know about me 👇</h2>
