@@ -11,7 +11,7 @@
 
 <p>I enjoy working with data, discovering valuable insights that help solve problems for businesses and other types of organizations.</p>
 
-<p>I also love programming and am enhancing my skills in Python, JavaScript, Microsoft C#(.NET Core), and SQL (for database design, development and administration). I also gaining real world experience with Big Data and Cloud computing platforms that are utulized in Machine Learning and Business Intelligence Analytics job roles.</p>
+<p>I also love programming and am enhancing my skills in Python, JavaScript, Microsoft C#(.NET Core), and SQL (for database design, development and administration). I also gaining real world experience with Big Data and Cloud computing platforms that are utilized in Machine Learning and Business Intelligence Analytics job roles.</p>
 
 <hr>
 <div align="right"><img src="img/img1.jpg"></div>
@@ -26,7 +26,8 @@
 <ul>
 <li>👨‍💻 I'm currently an <em>Applied Machine Learning </em> team contributor at <strong>ReVisionz Inc</strong>.</li>
 <li>👨‍🔬 On the side (after hours) I also help out as a <em>Data Science Mentor</em> with <strong>The Lighthouse Labs Data Bootcamp</strong>.</li>
-<li>☁  I have been studying and working on various <strong>Data Science and Machine Learning</strong> <em>Learning programs, individual and team projects, internships and fellowships</em> at <strong>since</strong> late 2019.</li>
+<li>👨‍🔬 Before that, I was a <em>2021 Data Science Fellow , developing a Recommender System PoC model</em> with <strong>Cybera Inc and Hockey AI(Actionable Insights)</strong>.</li>
+<li>☁  I have been studying and working on various <strong>Data Science and Machine Learning</strong> <em>Learning programs, individual and team projects, internships and fellowships</em>  <strong>since</strong> late 2019.</li>
 <li>👨‍🎓 Making this switch into Data Science has become one of the best career decisions I have made.</li>
 </ul>
 <hr>
