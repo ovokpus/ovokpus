@@ -13,7 +13,9 @@
 
 <p>I also love programming and am enhancing my skills in Python, JavaScript, Microsoft C#(.NET Core), and SQL (for database design, development and administration). I also gaining real world experience with Big Data and Cloud computing platforms that are utulized in Machine Learning and Business Intelligence Analytics job roles.</p>
 
+<hr>
 <div align="right"><img src="img/img1.jpg"></div>
+</hr>
 
 <p>This is a sampling of the work I have been doing for the past couple of years, since I made a major career pivot into Data Science. Programming and developing solutions within the data space has become my passion and pursuit. I place a high value on personal growth and making positive contributions in a friendly team environment, and I am looking to do just that to help organizations build and develop their data strategy.</p>
 
