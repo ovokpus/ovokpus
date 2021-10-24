@@ -4,9 +4,9 @@
     <img src="https://komarev.com/ghpvc/?username=ovokpus" alt="ovokpus"> 
 </div>
 
---
+<div align="right"><img src="img/img1.jpg">
 
-<h3 align="center"><em>I am a Technical Specialist with a keen focus on Data Science and Machine Learning Development.💯</em></h3>
+<h3 align="center"><em>I am a Technical Specialist with a keen focus on Data Science and Machine Learning Development.</em></h3>
 
 <p>With an Educational Background in Engineering Technology and Applied Sciences, I have been upskilling for the past couple of years in Data Science, and I have worked on a few Data Science projects, both individually and as part of a team.
 </p>
@@ -17,10 +17,8 @@
 
 <p>This is a sampling of the work I have been doing for the past couple of years, since I made a major career pivot into Data Science. Programming and developing solutions within the data space has become my passion and pursuit. I place a high value on personal growth and making positive contributions in a friendly team environment, and I am looking to do just that to help organizations build and develop their data strategy.</p>
 
---
-
 <hr>
-<h2>🚀 Some things you should know about me 👇</h2>
+<h2> Some things you should know about me 👇</h2>
 <ul>
 <li>👨‍💻 I'm currently an <em>Applied Machine Learning </em> team contributor at <strong>ReVisionz Inc</strong>.</li>
 <li>👨‍🔬 On the side (after hours) I also help out as a <em>Data Science Mentor</em> with <strong>The Lighthouse Labs Data Bootcamp</strong>.</li>
@@ -47,6 +45,7 @@
     <img src="https://img.shields.io/badge/-T--SQL-blue">
     <img src="https://img.shields.io/badge/-MACHINE%20LEARING-brightgreen">
     <img src="https://img.shields.io/badge/-DATABASE%20DESIGN%20AND%20ADMINISTRATION-red">
+    
 </div>
 <br>
 <hr>
@@ -55,8 +54,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on implementing Computer Vision models with YOLO Object Detector and Azure OCR.
 - 🌱 I’m currently learning Artificial Intelligence Engineering on Microsoft Azure, building pipelines, and Productionizing Machine Learning models.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about how to pivot into a tech career
 - 📫 How to reach me: linkedin.com/in/ovokpus
 - 😄 Pronouns: He/Him
