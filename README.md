@@ -1,6 +1,6 @@
 # Hi there, my name is Ovo. Welcome to my Profile Page! 👋
 
-<div align="left">
+<div align="right">
     <img src="https://komarev.com/ghpvc/?username=ovokpus" alt="ovokpus"> 
 </div>
 
@@ -27,7 +27,7 @@
 </ul>
 <hr>
 
-<h3>My Skills include 👨‍💻</h3>
+<h3>My Technical Knowdledge Areas and Skillsets include 👨‍💻</h3>
 <div>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -50,8 +50,6 @@
 <br>
 <hr>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on implementing Computer Vision models with YOLO Object Detector and Azure OCR.
 - 🌱 I’m currently learning Artificial Intelligence Engineering on Microsoft Azure, building pipelines, and Productionizing Machine Learning models.
 - 💬 Ask me about how to pivot into a tech career
@@ -59,3 +57,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 - ## ⚡ Fun fact: I still have not yet seen "Star Wars"! Maybe someday, don't hold your breath.
+
+--
+
+- ### Find below links to some of my projects and repositories 👇. Hope you have a great time going through them. Feedback is highly appreciated.
