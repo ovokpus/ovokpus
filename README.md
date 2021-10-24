@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=ovokpus" alt="ovokpus"> 
 </div>
 
-<div align="right"><img src="img/img1.jpg">
+<div align="right"><img src="img/img1.jpg"></div>
 
 <h3 align="center"><em>I am a Technical Specialist with a keen focus on Data Science and Machine Learning Development.</em></h3>
 
