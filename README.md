@@ -1,7 +1,7 @@
 # Hi there, Welcome to my Profile Page! I am glad you made it this far... 👋
 
 <div align="right">
-    <img src="https://komarev.com/ghpvc/?username=ovokpus" alt="ovokpus"> 
+    <img src="https://komarev.com/ghpvc/?username=ovokpus" alt="ovokpus">
 </div>
 
 <h3 align="center"><em>I am a Technical Specialist with a keen focus on Data Science and Machine Learning Development.</em></h3>
@@ -24,9 +24,10 @@
 <hr>
 <h2> Some things you should know about me 👇</h2>
 <ul>
-<li>👨‍💻 I'm currently an <em>Applied Machine Learning </em> team contributor at <strong>ReVisionz Inc</strong>.</li>
+<li>👨‍💻 I'm currently a <em> Data Scientist </em> at <strong>Totogi (A TelcoDR company)</strong>.</li>
 <li>👨‍🔬 On the side (after hours) I also help out as a <em>Data Science Mentor</em> with <strong>The Lighthouse Labs Data Bootcamp</strong>.</li>
-<li>👨‍🔬 Before that, I was a <em>2021 Data Science Fellow , developing a Recommender System PoC model</em> with <strong>Cybera Inc and Hockey AI(Actionable Insights)</strong>.</li>
+<li>👨‍🔬 Before that, I was an <em>Applied Machine Learning Specialist</em> with <strong>ReVisionz Inc</strong>.</li>
+<li>👨‍🔬 And Before that, I was a <em>2021 Data Science Fellow , and helped develop a Recommender System PoC model</em> with <strong>Cybera Inc and Hockey AI(Actionable Insights)</strong>.</li>
 <li>☁  I have been studying and working on various <strong>Data Science and Machine Learning</strong> <em>Learning programs, individual and team projects, internships and fellowships</em>  <strong>since</strong> late 2019.</li>
 <li>👨‍🎓 Making this switch into Data Science has become one of the best career decisions I have made.</li>
 </ul>
@@ -50,19 +51,20 @@
     <img src="https://img.shields.io/badge/-T--SQL-blue">
     <img src="https://img.shields.io/badge/-MACHINE%20LEARING-brightgreen">
     <img src="https://img.shields.io/badge/-DATABASE%20DESIGN%20AND%20ADMINISTRATION-red">
-    
+
 </div>
 <br>
 <hr>
 
-- 🔭 I’m currently working on implementing Computer Vision models with YOLO Object Detector and Azure OCR.
-- 🌱 I’m currently learning Artificial Intelligence Engineering on Microsoft Azure, building pipelines, and Productionizing Machine Learning models.
+- 🔭 I’m currently working on Platform Configuration, and Data Migration projects, implementing Telecom Charging Software Systems hosted on the Public Cloud (AWS)
+- 🌱 I’m currently learning Cloud Computing and Data Migration on AWS, Data Science & Engineering on Microsoft Azure, building data pipelines, and Productionizing Machine Learning models.
+- 🌱 Previously, I was working on implementing Computer Vision models with YOLO Object Detector and Azure OCR.
 - 💬 Ask me about how to pivot into a tech career
 - 📫 How to reach me: linkedin.com/in/ovokpus
 - 😄 Pronouns: He/Him
 
-- ## ⚡ Fun fact: I still have not yet seen "Star Wars"! Maybe someday, don't hold your breath.
+- ## ⚡ Fun fact: I still have not yet seen "Star Wars"! Maybe someday, don't hold your breath! -
 
 --
 
-- ### Find below links to some of my projects and repositories 👇. Hope you have a great time going through them. Feedback is highly appreciated.
+- ### Find below links to some of my projects and repositories 👇. Hope you have a great time going through them. Feedback is highly appreciated. -
