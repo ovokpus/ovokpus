@@ -11,7 +11,9 @@
 
 <p>I enjoy working with data, discovering valuable insights that help solve problems for businesses and other types of organizations.</p>
 
-<p>I also love programming and am enhancing my skills in Python and and SQL (for database design, modelling, development and administration). I also have marginal exposure to JavaScript, Microsoft C#(.NET Core), and a tiny bit of Java . I am also gaining real world experience with Big Data and Cloud computing platforms that are utilized in Machine Learning and Business Intelligence Analytics use cases. These use cases are especially present in various sectors of Industry where digital transformation is playing a huge role in determining business outcomes.</p>
+<p>I also love programming and am enhancing my skills in Python and and SQL (for database design, modelling, development and administration). I also have marginal exposure to JavaScript, Microsoft C#(.NET Core), and a tiny bit of Java . </p>
+
+<p>I am also gaining real world experience with Big Data and Cloud computing platforms that are utilized in Machine Learning and Business Intelligence Analytics use cases. These use cases are especially present in various sectors of Industry where digital transformation is playing a huge role in determining business outcomes.</p>
 
 <hr>
 <div align="right"><img src="img/img1.jpg"></div>
