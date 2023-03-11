@@ -72,6 +72,10 @@
 
 - ## ⚡ Fun fact: I still have not yet seen "Star Wars"! Maybe someday, don't hold your breath! -
 
+## Certifications and Credentials
+
+You can find my professional certifications in [Credly](https://www.credly.com/users/ovo) and also in [Accredible](https://scl.io/Rp328W3)
+
 ---
 
 ## Find below links to some of my projects and repositories 👇.
