@@ -6,7 +6,7 @@
 
 <h3 align="center"><em>I am a Data Engineer, who is passionate about the Operational aspects of Data Science and Machine Learning.</em></h3>
 
-<p>With an Educational Background in Engineering Technology and Applied Sciences, I have been upskilling for the past couple of years in Data Science, and I have worked on a few Data Science projects, both individually and as part of a team.
+<p>With an Educational Background in Engineering Technology and Applied Sciences, I have been upskilling for the past couple of years in Data Science, and I have worked on more than a few Data Science and Engineering projects, both individually and as part of agile development teams. My experience covers building data products in Retail, Energy, Telco, Banking and Financial services, and also HR Analytics.
 </p>
 
 <p>I enjoy working with data, discovering valuable insights that help solve problems for businesses and other types of organizations.</p>
