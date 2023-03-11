@@ -90,6 +90,7 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 2. [Python-Azure-AI-REST-APIs](https://github.com/ovokpus/Python-Azure-AI-REST-APIs)
 3. [Azure Machine Learning Project](https://github.com/ovokpus/Azure-Machine-Learning-Project)
 4. [Azure AI Engineering Code Library](https://github.com/ovokpus/Azure-AI-Engineer-Code-Library)
+5. [My MLOps Learning Repository](https://github.com/ovokpus/MLOps-Learn)
 
 ### Data Science Projects
 
