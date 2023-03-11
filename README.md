@@ -59,8 +59,6 @@
 <br>
 <hr>
 
----
-
 - 🔭 I am now working on a very complex Data Migration Project on Google Cloud Platform, implementing data models and Data Warehosing designs using dbt and airflow with Google Cloud BigQuery, for a major Banking Client in Canada. This is high-end GCP consulting at its best!
 - 🔭 I was working on Platform Configuration, Backend Development (Flask) and Telco Data Migration projects, implementing Telecom Charging Software Systems hosted on the Public Cloud (AWS)
 - 🌱 I’m currently learning Cloud Computing and Data Migration on GCP, Productionizing Machine Learning models, building data pipelines, and DevOps and infrastructure Engineering.
