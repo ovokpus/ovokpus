@@ -87,6 +87,7 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 1. [AWS ETL Pipeline](https://github.com/ovokpus/AWS-ETL-Pipeline)
 2. [Azure Streaming Pipeline](https://github.com/ovokpus/Azure-Streaming-Pipeline)
 3. [Airflow Learning Project - Astronomer](https://github.com/ovokpus/my-airflow-learning-project)
+4. [Document Streaming App with fastAPI, Kafka, Spark & MongoDB](https://github.com/ovokpus/document-streaming-pipeline)
 
 ### Machine Learning Engineering Projects
 
