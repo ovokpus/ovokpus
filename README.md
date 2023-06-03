@@ -6,7 +6,11 @@
 
 <h3 align="center"><em>I am a Data Engineer, who is passionate about the Operational aspects of Data Science and Machine Learning.</em></h3>
 
-<p>With an Educational Background in Engineering Technology and Applied Sciences, I have been upskilling for the past couple of years in Data Science, and I have worked on more than a few Data Science and Engineering projects, both individually and as part of agile development teams. My experience covers building data products in Retail, Energy, Telco, Banking and Financial services, and also HR Analytics.
+<p>With an Educational Background in Engineering Technology and Applied Sciences, I have acquired a broad and rich skillset that encompasses the field of Data and Machine Learning Engineering, Software Development, and Cloud Operations. 
+</p>
+
+<p>
+I have worked on more than a few Engineering and Cloud projects, both individually and as part of Agile Development teams. My experience covers building data products in Retail, Energy, Telco, Banking and Financial services, and also HR Analytics.
 </p>
 
 <p>I enjoy working with data, discovering valuable insights that help solve problems for businesses and other types of organizations.</p>
@@ -88,6 +92,7 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 2. [Azure Streaming Pipeline](https://github.com/ovokpus/Azure-Streaming-Pipeline)
 3. [Airflow Learning Project - Astronomer](https://github.com/ovokpus/my-airflow-learning-project)
 4. [Document Streaming App with fastAPI, Kafka, Spark & MongoDB](https://github.com/ovokpus/document-streaming-pipeline)
+5. [Analytics Engineering Prototype with dbt and BigQuery](https://github.com/ovokpus/analytics-engineering-prototype)
 
 ### Machine Learning Engineering Projects
 
