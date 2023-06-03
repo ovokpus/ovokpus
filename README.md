@@ -4,9 +4,9 @@
     <img src="https://komarev.com/ghpvc/?username=ovokpus" alt="ovokpus">
 </div>
 
-<h3 align="center"><em>I am a Data Engineer, who is passionate about the Operational aspects of Data Science and Machine Learning.</em></h3>
+<h3 align="center"><em>I am a Data Engineer, who is passionate about the Operational aspects of Data Science and Machine Learning in the cloud.</em></h3>
 
-<p>With an Educational Background in Engineering Technology and Applied Sciences, I have acquired a broad and rich skillset that encompasses the field of Data and Machine Learning Engineering, Software Development, and Cloud Operations. 
+<p>I am on a career path that leads to becoming a seasoned Data Engineer with useful Machine Learning Operations(MLOps) Engineering, and Cloud computing skills. With an Educational Background in Engineering Technology and Applied Sciences, I have acquired a broad and rich skillset that encompasses the field of Data and Machine Learning Engineering, Software Development, and Cloud Operations. 
 </p>
 
 <p>
