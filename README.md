@@ -93,6 +93,7 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 3. [Airflow Learning Project - Astronomer](https://github.com/ovokpus/my-airflow-learning-project)
 4. [Document Streaming App with fastAPI, Kafka, Spark & MongoDB](https://github.com/ovokpus/document-streaming-pipeline)
 5. [Analytics Engineering Prototype with dbt and BigQuery](https://github.com/ovokpus/analytics-engineering-prototype)
+6. [Contact Tracing using Elasticsearch and Streamlit Frontend](https://github.com/ovokpus/contact-tracing)
 
 ### Machine Learning Engineering Projects
 
