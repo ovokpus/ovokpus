@@ -94,6 +94,7 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 4. [Document Streaming App with fastAPI, Kafka, Spark & MongoDB](https://github.com/ovokpus/document-streaming-pipeline)
 5. [Analytics Engineering Prototype with dbt and BigQuery](https://github.com/ovokpus/analytics-engineering-prototype)
 6. [Contact Tracing using Elasticsearch and Streamlit Frontend](https://github.com/ovokpus/contact-tracing)
+73 [Time Series Analytics Pipeline with Python, InfluxDB and Grafana](https://github.com/ovokpus/time-series-analytics)
 
 ### Machine Learning Engineering Projects
 
