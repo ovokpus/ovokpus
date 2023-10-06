@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=ovokpus" alt="ovokpus">
 </div>
 
-<h3 align="center"><em>I enjoy working as a Data Engineering Consultant in the cloud, building Analytics workflows and discovering valuable insights that help solve problems for client businesses and other types of organizations.</em></h3>
+<h2 align="center"><em>I enjoy working as a Data Engineering Consultant in the cloud, building Analytics workflows and discovering valuable insights that help solve problems for client businesses and other types of organizations.</em></h2>
 
 <p>I have a keen interest in ETL and ELT data Pipelines, Machine Learning Systems, Analytics Engineering and Data Warehousing, as well as Cloud Development Operations. I am on a career path that leads to becoming a seasoned Data and Analytics Engineer with useful Machine Learning Operations(MLOps) Engineering, and Cloud computing skills.
 </p>
