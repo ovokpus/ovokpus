@@ -4,18 +4,18 @@
     <img src="https://komarev.com/ghpvc/?username=ovokpus" alt="ovokpus">
 </div>
 
-<h3 align="center"><em>I am a Data Engineer, who is passionate about the Operational aspects of Data Science and Machine Learning in the cloud.</em></h3>
+<h3 align="center"><em>I enjoy working as a Data Engineering Consultant in the cloud, building Analytics workflows and discovering valuable insights that help solve problems for client businesses and other types of organizations.</em></h3>
 
-<p>I am on a career path that leads to becoming a seasoned Data Engineer with useful Machine Learning Operations(MLOps) Engineering, and Cloud computing skills. With an Educational Background in Engineering Technology and Applied Sciences, I have acquired a broad and rich skillset that encompasses the field of Data and Machine Learning Engineering, Software Development, and Cloud Operations. 
+<p>I have a keen interest in ETL and ELT data Pipelines, Machine Learning Systems, Analytics Engineering and Data Warehousing, as well as Cloud Development Operations. I am on a career path that leads to becoming a seasoned Data and Analytics Engineer with useful Machine Learning Operations(MLOps) Engineering, and Cloud computing skills.
 </p>
 
 <p>
-I have worked on more than a few Engineering and Cloud projects, both individually and as part of Agile Development teams. My experience covers building data products in Retail, Energy, Telco, Banking and Financial services, and also HR Analytics.
+With an Educational Background in Engineering Technology and Applied Sciences, I have acquired a broad and rich skillset that overlaps the fields of Data and Machine Learning Engineering, Software Development, and Cloud Operations. I have worked on more than a few Engineering and Cloud projects, both individually and as part of Agile Development teams. My experience covers building data products in Retail, Energy, Telco, Banking and Financial services, and also HR Analytics.
 </p>
 
 <p>I enjoy working with data, discovering valuable insights that help solve problems for businesses and other types of organizations.</p>
 
-<p>I also love programming and am enhancing my skills in Python and and SQL (for database design, modelling, development and administration). I also have marginal exposure to JavaScript, Microsoft C#(.NET Core), and a tiny bit of Java . </p>
+<p>I also love programming and am enhancing my skills in Python and and SQL, database design, data warehouse modelling, as well as Machine Learning model development, experimentation, packaging and deployment. I also have marginal exposure to JavaScript, Microsoft C#(.NET Core), and a tiny bit of Java. </p>
 
 <p>I am also gaining real world experience with Big Data and Cloud computing platforms that are utilized in Machine Learning and Business Intelligence Analytics use cases. These use cases are especially present in various sectors of Industry where digital transformation is playing a huge role in determining business outcomes.</p>
 
@@ -95,6 +95,7 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 5. [Analytics Engineering Prototype with dbt and BigQuery](https://github.com/ovokpus/analytics-engineering-prototype)
 6. [Contact Tracing using Elasticsearch and Streamlit Frontend](https://github.com/ovokpus/contact-tracing)
 7. [Time Series Analytics Pipeline with Python, InfluxDB and Grafana](https://github.com/ovokpus/time-series-analytics)
+8. [Data Engineering with Hadoop - A Learning Project](https://github.com/ovokpus/Data-Engineering-with-Hadoop/tree/main)
 
 ### Machine Learning Engineering Projects
 
