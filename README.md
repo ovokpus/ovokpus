@@ -30,7 +30,7 @@ With an Educational Background in Engineering Technology and Applied Sciences, I
 <hr>
 <h2> Some things you should know about me 👇</h2>
 <ul>
-<li>👨‍💻 I'm currently a <em> Data Engineer </em> at <strong>Badal.io, the foremost Canadian GCP consulting company</strong>.</li>
+<li>👨‍💻 I'm currently a <em> Senior Data Engineer </em> at <strong>Badal.io, the foremost Canadian GCP consulting company</strong>.</li>
 <li>👨‍💻 I used to be a <em> Data Scientist and eventually, a Data Engineer </em> at <strong>Totogi (A TelcoDR company)</strong>.</li>
 <li>👨‍🔬 On the side (after hours, casually) I help out as a <em>Data Science Mentor</em> with <strong>The Lighthouse Labs Data Bootcamp</strong>.</li>
 <li>👨‍🔬 Before that, I was an <em>Applied Machine Learning Specialist</em> with <strong>ReVisionz Inc</strong>.</li>
@@ -63,7 +63,7 @@ With an Educational Background in Engineering Technology and Applied Sciences, I
 <br>
 <hr>
 
-- 🔭 I am now working on a very complex Data Migration Project on Google Cloud Platform, implementing data models and Data Warehousing designs using dbt and airflow with Google Cloud BigQuery, for a major Banking Client in Canada. This is high-end GCP consulting at its best!
+- 🔭 I am now working on a very complex Data Migration Project on Google Cloud Platform, implementing data models and Data Warehousing designs using dbt and airflow with Google Cloud BigQuery, for a major Enterprise Banking Client in Canada. I am also building pipelines for Apache Hive lift-and-shift workloads with Python and HiveQL and shell scripting. This is high-end GCP consulting at its best!
 - 🌱 I was working on Platform Configuration, Backend Development (Flask) and Telco Data Migration projects, implementing Telecom Charging Software Systems hosted on the Public Cloud (AWS)
 - 🌱 I’m currently learning Cloud Computing and Data Migration on GCP, Productionizing Machine Learning models, building data pipelines, DevOps and infrastructure Engineering best practices, as it relates to Data and Machine Learning Engineering.
 - 🌱 Previously, I was working on applying Computer Vision (Object Detection and Optical Character Recognition) models using the YOLO Object Detector and Microsoft Azure Cognitive Services. Models were used to extract technical information from industrial design documents and blueprints.
@@ -105,12 +105,14 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 4. [Azure AI Engineering Code Library](https://github.com/ovokpus/Azure-AI-Engineer-Code-Library)
 5. [My MLOps Learning Repository](https://github.com/ovokpus/MLOps-Learn)
 
-### Data Science Projects
+### Data Science & Analytics Projects
 
 1. [Salary Prediction Prototype](https://github.com/ovokpus/Salary-Prediction)
 2. [Car Manufacturing Test](https://github.com/ovokpus/Car-Manufacturing-Test)
 3. [Customer Segmentation using RFM modelling and K-Means Clustering](https://github.com/ovokpus/Customer-Segmentation)
+4. And here is my [Business Intelligence Gallery](https://github.com/ovokpus/my-bi-gallery)
 
-And here is my [Business Intelligence Gallery](https://github.com/ovokpus/my-bi-gallery)
+### Software Projects (Frontend, Backend, FullStack)
+1. [US Cities API Backend](https://github.com/ovokpus/us-city-api)
 
 ## I Hope you have a great time going through them. Feedback is highly appreciated. -
