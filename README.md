@@ -90,20 +90,23 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 
 1. [AWS ETL Pipeline](https://github.com/ovokpus/AWS-ETL-Pipeline)
 2. [Azure Streaming Pipeline](https://github.com/ovokpus/Azure-Streaming-Pipeline)
-3. [Airflow Learning Project - Astronomer](https://github.com/ovokpus/my-airflow-learning-project)
+3. [Spark Application in Java](https://github.com/ovokpus/Java-Spark-Batch-Application/tree/main)
 4. [Document Streaming App with fastAPI, Kafka, Spark & MongoDB](https://github.com/ovokpus/document-streaming-pipeline)
 5. [Analytics Engineering Prototype with dbt and BigQuery](https://github.com/ovokpus/analytics-engineering-prototype)
 6. [Contact Tracing using Elasticsearch and Streamlit Frontend](https://github.com/ovokpus/contact-tracing)
 7. [Time Series Analytics Pipeline with Python, InfluxDB and Grafana](https://github.com/ovokpus/time-series-analytics)
 8. [Data Engineering with Hadoop - A Learning Project](https://github.com/ovokpus/Data-Engineering-with-Hadoop/tree/main)
+9. [Airflow Learning Project - Astronomer](https://github.com/ovokpus/my-airflow-learning-project)
 
 ### Machine Learning Engineering Projects
 
-1. [Income Prediction Pipeline - MLOps](https://github.com/ovokpus/Income-Prediction-Pipeline)
+1. [Retrieval-Augmented Generative AI Q&A Solution for Food Safety](https://github.com/ovokpus/vertex-gen-ai)
 2. [Python-Azure-AI-REST-APIs](https://github.com/ovokpus/Python-Azure-AI-REST-APIs)
-3. [Azure Machine Learning Project](https://github.com/ovokpus/Azure-Machine-Learning-Project)
+3. [Generative AI Flask Application](https://github.com/ovokpus/summarizer-app)
 4. [Azure AI Engineering Code Library](https://github.com/ovokpus/Azure-AI-Engineer-Code-Library)
 5. [My MLOps Learning Repository](https://github.com/ovokpus/MLOps-Learn)
+6. [Income Prediction Pipeline - MLOps](https://github.com/ovokpus/Income-Prediction-Pipeline)
+7. [Azure Machine Learning Project](https://github.com/ovokpus/Azure-Machine-Learning-Project)
 
 ### Data Science & Analytics Projects
 
@@ -112,7 +115,10 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 3. [Customer Segmentation using RFM modelling and K-Means Clustering](https://github.com/ovokpus/Customer-Segmentation)
 4. And here is my [Business Intelligence Gallery](https://github.com/ovokpus/my-bi-gallery)
 
-### Software Projects (Frontend, Backend, FullStack)
+### Other Software Projects (Frontend, Backend, Infrastructure Deployment)
+
 1. [US Cities API Backend](https://github.com/ovokpus/us-city-api)
+2. [News Frontend Application - React](https://github.com/ovokpus/google-news-app)
+3. [Deploying Google Cloud Applications with Terraform](https://github.com/ovokpus/GCP-Terraform-App-Deployment)
 
 ## I Hope you have a great time going through them. Feedback is highly appreciated. -
