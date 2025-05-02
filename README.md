@@ -100,7 +100,7 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 9. [Airflow Learning Project - Astronomer](https://github.com/ovokpus/my-airflow-learning-project)
 10. [Spark Application in Java](https://github.com/ovokpus/Java-Spark-Batch-Application/tree/main)
 
-### Machine Learning Engineering Projects
+### Machine Learning and AI Engineering Projects
 
 1. [Retrieval-Augmented Generative AI Q&A Solution for Food Safety](https://github.com/ovokpus/vertex-gen-ai)
 2. [Python-Azure-AI-REST-APIs](https://github.com/ovokpus/Python-Azure-AI-REST-APIs)
