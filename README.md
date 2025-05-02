@@ -4,7 +4,10 @@
     <img src="https://komarev.com/ghpvc/?username=ovokpus" alt="ovokpus">
 </div>
 
-<h2 align="center"><em>My professional background and experience as a Senior Data & Analytics Engineer has centered around leading code implementations within project executions, interfacing with clients in order to understand their needs and requirements, as well as advancing data pipeline architectures, which are crucial for migrating data workloads to, as well as building AI applications within the Google Cloud Platform. </em></h2>
+<h2 align="center"><em> I am a Senior Data & Analytics Engineer with a keen focus on Analytics workloads, AI, Machine Learning, and Cloud Development Operations. </em></h2>
+
+<p>My professional background and experience has centered around leading code implementations within project executions, interfacing with clients in order to understand their needs and requirements, as well as advancing data pipeline architectures, which are crucial for migrating data workloads to, as well as building AI applications within the Google Cloud Platform.
+</p>
 
 <p>My contributions (from design to delivery) have enabled efficient and scalable data solutions, reducing infrastructure costs significantly. Within this dynamic environment, my proficiency in Data Engineering, AI, as well as knowledge of Machine learning Operations has been pivotal to successfully transitioning complex analytics workloads to cloud-based platforms.
 </p>
