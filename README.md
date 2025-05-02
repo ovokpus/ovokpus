@@ -1,23 +1,21 @@
-# Hi there, Welcome to my Profile Page! I am glad you made it this far... 👋
+# Hi there, my name is Ovo, and welcome to my Profile Page! I am glad you made it this far... 👋
 
 <div align="right">
     <img src="https://komarev.com/ghpvc/?username=ovokpus" alt="ovokpus">
 </div>
 
-<h2 align="center"><em>I enjoy working as a Data Engineering Consultant in the cloud, building Analytics workflows and discovering valuable insights that help solve problems for client businesses and other types of organizations.</em></h2>
+<h2 align="center"><em>My professional background and experience as a Senior Data & Analytics Engineer has centered around leading code implementations within project executions, interfacing with clients in order to understand their needs and requirements, as well as advancing data pipeline architectures, which are crucial for migrating data workloads to, as well as building AI applications within the Google Cloud Platform. </em></h2>
 
-<p>I have a keen interest in ETL and ELT data Pipelines, Machine Learning Systems, Analytics Engineering and Data Warehousing, as well as Cloud Development Operations. I am on a career path that leads to becoming a seasoned Data and Analytics Engineer with useful Machine Learning Operations(MLOps) Engineering, and Cloud computing skills.
+<p>My contributions (from design to delivery) have enabled efficient and scalable data solutions, reducing infrastructure costs significantly. Within this dynamic environment, my proficiency in Data Engineering, AI, as well as knowledge of Machine learning Operations has been pivotal to successfully transitioning complex analytics workloads to cloud-based platforms.
 </p>
 
 <p>
-With an Educational Background in Engineering Technology and Applied Sciences, I have acquired a broad and rich skillset that overlaps the fields of Data and Machine Learning Engineering, Software Development, and Cloud Operations. I have worked on more than a few Engineering and Cloud projects, both individually and as part of Agile Development teams. My experience covers building data products in Retail, Energy, Telco, Banking and Financial services, and also HR Analytics.
+As a former Mentor at Lighthouse Labs, I've imparted Data Science & Analytics expertise, guiding interns and shaping learning content for future data professionals. In keeping with the current developments in the AI space, I have gained an understanding of LLMs, Prompt Engineering, as well as have built and deployed a couple of prototype RAG applications on Google Cloud Vertex AI.
 </p>
 
 <p>I enjoy working with data, discovering valuable insights that help solve problems for businesses and other types of organizations.</p>
 
-<p>I also love programming and am enhancing my skills in Python and and SQL, database design, data warehouse modelling, as well as Machine Learning model development, experimentation, packaging and deployment. I also have marginal exposure to JavaScript, Microsoft C#(.NET Core), and a tiny bit of Java. </p>
-
-<p>I am also gaining real world experience with Big Data and Cloud computing platforms that are utilized in Machine Learning and Business Intelligence Analytics use cases. These use cases are especially present in various sectors of Industry where digital transformation is playing a huge role in determining business outcomes.</p>
+<p>My commitment to excellence is reflected in how I contributed(and in some cases, led) team efforts to enhance the analytical capabilities of our clients. Through collaboration, we've overcome project challenges and delivered robust data modeling solutions, leveraging our expertise in data architecture and our strategic use of dbt and BigQuery with Airflow Orchestration, migrating of Hadoop workloads from On Prem to Google Cloud Platform, as well as Databricks Workflows for continuous integration and deployment. </p>
 
 <hr>
 <div align="right"><img src="img/img1.jpg"></div>
@@ -63,9 +61,9 @@ With an Educational Background in Engineering Technology and Applied Sciences, I
 <br>
 <hr>
 
-- 🔭 I am now working on a very complex Data Migration Project on Google Cloud Platform, implementing data models and Data Warehousing designs using dbt and airflow with Google Cloud BigQuery, for a major Enterprise Banking Client in Canada. I am also building pipelines for Apache Hive lift-and-shift workloads with Python and HiveQL and shell scripting. This is high-end GCP consulting at its best!
+- 🔭 I have been working on a very complex Data Migration Projects (lift-and-shift, refactoring and mordernization) on Google Cloud Platform, implementing data models and Data Warehousing designs using dbt and airflow with Google Cloud BigQuery, for a major Enterprise Banking Client in Canada. I have also been involved with the building of pipelines for Apache Hive lift-and-shift workloads with Python and HiveQL and shell scripting. This is high-end GCP consulting at its best!
 - 🌱 I was working on Platform Configuration, Backend Development (Flask) and Telco Data Migration projects, implementing Telecom Charging Software Systems hosted on the Public Cloud (AWS)
-- 🌱 I’m currently learning Cloud Computing and Data Migration on GCP, Productionizing Machine Learning models, building data pipelines, DevOps and infrastructure Engineering best practices, as it relates to Data and Machine Learning Engineering.
+- 🌱 I’m currently improving my cloud and Generative AI Engineering skills, working on picking up product development and prototyping skills with Product Faculty and AI Makerspace.
 - 🌱 Previously, I was working on applying Computer Vision (Object Detection and Optical Character Recognition) models using the YOLO Object Detector and Microsoft Azure Cognitive Services. Models were used to extract technical information from industrial design documents and blueprints.
 
 - 💬 Ask me about how to pivot into a tech career
@@ -90,23 +88,27 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 
 1. [AWS ETL Pipeline](https://github.com/ovokpus/AWS-ETL-Pipeline)
 2. [Azure Streaming Pipeline](https://github.com/ovokpus/Azure-Streaming-Pipeline)
-3. [Spark Application in Java](https://github.com/ovokpus/Java-Spark-Batch-Application/tree/main)
+3. [Apache Airflow ETL](https://github.com/ovokpus/airflow-etl-pipeline)
 4. [Document Streaming App with fastAPI, Kafka, Spark & MongoDB](https://github.com/ovokpus/document-streaming-pipeline)
 5. [Analytics Engineering Prototype with dbt and BigQuery](https://github.com/ovokpus/analytics-engineering-prototype)
 6. [Contact Tracing using Elasticsearch and Streamlit Frontend](https://github.com/ovokpus/contact-tracing)
 7. [Time Series Analytics Pipeline with Python, InfluxDB and Grafana](https://github.com/ovokpus/time-series-analytics)
 8. [Data Engineering with Hadoop - A Learning Project](https://github.com/ovokpus/Data-Engineering-with-Hadoop/tree/main)
 9. [Airflow Learning Project - Astronomer](https://github.com/ovokpus/my-airflow-learning-project)
+10. [Spark Application in Java](https://github.com/ovokpus/Java-Spark-Batch-Application/tree/main)
 
 ### Machine Learning Engineering Projects
 
 1. [Retrieval-Augmented Generative AI Q&A Solution for Food Safety](https://github.com/ovokpus/vertex-gen-ai)
 2. [Python-Azure-AI-REST-APIs](https://github.com/ovokpus/Python-Azure-AI-REST-APIs)
 3. [Generative AI Flask Application](https://github.com/ovokpus/summarizer-app)
-4. [Azure AI Engineering Code Library](https://github.com/ovokpus/Azure-AI-Engineer-Code-Library)
-5. [My MLOps Learning Repository](https://github.com/ovokpus/MLOps-Learn)
+4. [Chainlit Chatbot Application (GenAI)](https://github.com/ovokpus/gh-llm-app)
+5. [Collaborative Filtering Recommender Engine](https://github.com/ovokpus/collaborative-recommender)
 6. [Income Prediction Pipeline - MLOps](https://github.com/ovokpus/Income-Prediction-Pipeline)
-7. [Azure Machine Learning Project](https://github.com/ovokpus/Azure-Machine-Learning-Project)
+7. [My MLOps Learning Repository](https://github.com/ovokpus/MLOps-Learn)
+8. [Azure AI Engineering Code Library](https://github.com/ovokpus/Azure-AI-Engineer-Code-Library)
+9. [Azure Machine Learning Project](https://github.com/ovokpus/Azure-Machine-Learning-Project)
+10. [Employee Attrition Predictor](https://github.com/ovokpus/Employee-Attrition-Predictor)
 
 ### Data Science & Analytics Projects
 
@@ -115,10 +117,11 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 3. [Customer Segmentation using RFM modelling and K-Means Clustering](https://github.com/ovokpus/Customer-Segmentation)
 4. And here is my [Business Intelligence Gallery](https://github.com/ovokpus/my-bi-gallery)
 
-### Other Software Projects (Frontend, Backend, Infrastructure Deployment)
+### Other Software Projects (Frontend, Backend, Infrastructure/DevOps Deployment)
 
 1. [US Cities API Backend](https://github.com/ovokpus/us-city-api)
 2. [News Frontend Application - React](https://github.com/ovokpus/google-news-app)
 3. [Deploying Google Cloud Applications with Terraform](https://github.com/ovokpus/GCP-Terraform-App-Deployment)
+4. [Application Deployment with Google Kubernetes Engine(GKE)](https://github.com/ovokpus/GKE-Application-Deployment)
 
 ## I Hope you have a great time going through them. Feedback is highly appreciated. -
