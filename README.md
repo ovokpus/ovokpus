@@ -87,6 +87,21 @@ You can find my professional certifications in [Credly](https://www.credly.com/u
 
 My all time favorites are linked below in the Pinned Repositories. But here are others as well:
 
+### Machine Learning and AI Engineering Projects
+
+1. [Retrieval-Augmented Generative AI Q&A Solution for Food Safety](https://github.com/ovokpus/vertex-gen-ai)
+2. [Python-Azure-AI-REST-APIs](https://github.com/ovokpus/Python-Azure-AI-REST-APIs)
+3. [Generative AI Flask Application](https://github.com/ovokpus/summarizer-app)
+4. [Tensorflow BERT Sentiment Classifier](https://github.com/ovokpus/bert-sentiment-classifier)
+5. [OpenAI Chat Application Deployed with Vercel](https://github.com/ovokpus/gh-llm-app)
+6. [Chainlit Chatbot Application deployed with Huggingface](https://github.com/ovokpus/openai-chat-app)
+7. [Collaborative Filtering Recommender Engine](https://github.com/ovokpus/collaborative-recommender)
+8. [Income Prediction Pipeline - MLOps](https://github.com/ovokpus/Income-Prediction-Pipeline)
+9. [My MLOps Learning Repository](https://github.com/ovokpus/MLOps-Learn)
+10. [Azure AI Engineering Code Library](https://github.com/ovokpus/Azure-AI-Engineer-Code-Library)
+11. [Azure Machine Learning Project](https://github.com/ovokpus/Azure-Machine-Learning-Project)
+12. [Employee Attrition Predictor](https://github.com/ovokpus/Employee-Attrition-Predictor)
+
 ### Data Engineering Projects
 
 1. [AWS ETL Pipeline](https://github.com/ovokpus/AWS-ETL-Pipeline)
@@ -99,19 +114,6 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 8. [Data Engineering with Hadoop - A Learning Project](https://github.com/ovokpus/Data-Engineering-with-Hadoop/tree/main)
 9. [Airflow Learning Project - Astronomer](https://github.com/ovokpus/my-airflow-learning-project)
 10. [Spark Application in Java](https://github.com/ovokpus/Java-Spark-Batch-Application/tree/main)
-
-### Machine Learning and AI Engineering Projects
-
-1. [Retrieval-Augmented Generative AI Q&A Solution for Food Safety](https://github.com/ovokpus/vertex-gen-ai)
-2. [Python-Azure-AI-REST-APIs](https://github.com/ovokpus/Python-Azure-AI-REST-APIs)
-3. [Generative AI Flask Application](https://github.com/ovokpus/summarizer-app)
-4. [Chainlit Chatbot Application (GenAI)](https://github.com/ovokpus/gh-llm-app)
-5. [Collaborative Filtering Recommender Engine](https://github.com/ovokpus/collaborative-recommender)
-6. [Income Prediction Pipeline - MLOps](https://github.com/ovokpus/Income-Prediction-Pipeline)
-7. [My MLOps Learning Repository](https://github.com/ovokpus/MLOps-Learn)
-8. [Azure AI Engineering Code Library](https://github.com/ovokpus/Azure-AI-Engineer-Code-Library)
-9. [Azure Machine Learning Project](https://github.com/ovokpus/Azure-Machine-Learning-Project)
-10. [Employee Attrition Predictor](https://github.com/ovokpus/Employee-Attrition-Predictor)
 
 ### Data Science & Analytics Projects
 
