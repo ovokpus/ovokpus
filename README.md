@@ -36,8 +36,8 @@ As a former Mentor at Lighthouse Labs, I've imparted Data Science & Analytics ex
 <li>👨‍🔬 On the side (after hours, casually) I help out as a <em>Data Science Mentor</em> with <strong>The Lighthouse Labs Data Bootcamp</strong>.</li>
 <li>👨‍🔬 Before that, I was an <em>Applied Machine Learning Specialist</em> with <strong>ReVisionz Inc</strong>.</li>
 <li>👨‍🔬 And Before that, I was a <em>2021 Data Science Fellow , and helped develop a Recommender System PoC model</em> with <strong>Cybera Inc and Hockey AI(Actionable Insights)</strong>.</li>
-<li>☁  I have been studying and working on various <strong>Data Science and Machine Learning</strong> <em>Learning programs, individual and team projects, internships and fellowships</em>  <strong>since</strong> late 2019.</li>
-<li>👨‍🎓 Making this switch into Data Science has become one of the best career decisions I have made.</li>
+<li>☁  I have been learning and building <strong>AI Applications</strong> on various foundation models (LLMs). In addition, I am keeping up to date from time to time with various <em>Learning programs, bootcamps, individual and team projects, internships and fellowships</em>  <strong>since</strong> late 2019.</li>
+<li>👨‍🎓 Making this switch into <strong>Data Science</strong> and ultimately <strong>Data & AI Engineering</strong> has become the best career decision I have made.</li>
 </ul>
 <hr>
 
