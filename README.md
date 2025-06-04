@@ -128,6 +128,6 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 2. [News Frontend Application - React](https://github.com/ovokpus/google-news-app)
 3. [Deploying Google Cloud Applications with Terraform](https://github.com/ovokpus/GCP-Terraform-App-Deployment)
 4. [Application Deployment with Google Kubernetes Engine(GKE)](https://github.com/ovokpus/GKE-Application-Deployment)
-5. [GKE Multi-Tenant Cluster Management Playbook with Terraform Implementation Playbook](https://github.com/ovokpus/gke-multi-tenant-app/tree/main)
+5. [GKE Multi-Tenant Cluster Management with Terraform Implementation Playbook](https://github.com/ovokpus/gke-multi-tenant-app/tree/main)
 
 ## I Hope you have a great time going through them. Feedback is highly appreciated. -
