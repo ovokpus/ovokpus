@@ -91,10 +91,10 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 
 1. [Retrieval-Augmented Generative AI Q&A Solution for Food Safety](https://github.com/ovokpus/vertex-gen-ai)
 2. [Python-Azure-AI-REST-APIs](https://github.com/ovokpus/Python-Azure-AI-REST-APIs)
-3. [Generative AI Flask Application](https://github.com/ovokpus/summarizer-app)
+3. [Text Summarizer Flask Application](https://github.com/ovokpus/summarizer-app)
 4. [Tensorflow BERT Sentiment Classifier](https://github.com/ovokpus/bert-sentiment-classifier)
-5. [OpenAI Chat Application Deployed with Vercel](https://github.com/ovokpus/gh-llm-app)
-6. [Chainlit Chatbot Application deployed with Huggingface](https://github.com/ovokpus/openai-chat-app)
+5. [OpenAI Chat Application Deployed with Vercel](https://github.com/ovokpus/openai-chat-app)
+6. [Chainlit Chatbot Application deployed with Huggingface](https://github.com/ovokpus/gh-llm-app)
 7. [Collaborative Filtering Recommender Engine](https://github.com/ovokpus/collaborative-recommender)
 8. [Income Prediction Pipeline - MLOps](https://github.com/ovokpus/Income-Prediction-Pipeline)
 9. [My MLOps Learning Repository](https://github.com/ovokpus/MLOps-Learn)
@@ -128,5 +128,6 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 2. [News Frontend Application - React](https://github.com/ovokpus/google-news-app)
 3. [Deploying Google Cloud Applications with Terraform](https://github.com/ovokpus/GCP-Terraform-App-Deployment)
 4. [Application Deployment with Google Kubernetes Engine(GKE)](https://github.com/ovokpus/GKE-Application-Deployment)
+5. [GKE Multi-Tenant Cluster Management Playbook with Terraform Implementation Playbook](https://github.com/ovokpus/gke-multi-tenant-app/tree/main)
 
 ## I Hope you have a great time going through them. Feedback is highly appreciated. -
