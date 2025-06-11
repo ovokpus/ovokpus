@@ -122,12 +122,20 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 3. [Customer Segmentation using RFM modelling and K-Means Clustering](https://github.com/ovokpus/Customer-Segmentation)
 4. And here is my [Business Intelligence Gallery](https://github.com/ovokpus/my-bi-gallery)
 
-### Other Software Projects (Frontend, Backend, Infrastructure/DevOps Deployment)
+### Other Projects and implementation Playbooks (Frontend, Backend, Infrastructure/DevOps Deployment)
 
-1. [US Cities API Backend](https://github.com/ovokpus/us-city-api)
-2. [News Frontend Application - React](https://github.com/ovokpus/google-news-app)
+1. [Managing a GKE Multi-tenant Cluster with Namespaces](https://github.com/ovokpus/gke-multi-tenant-app)
+2. [Building and Deploying a Docker image to a GKE Cluster](https://github.com/ovokpus/docker-gke-deploy)
 3. [Deploying Google Cloud Applications with Terraform](https://github.com/ovokpus/GCP-Terraform-App-Deployment)
 4. [Application Deployment with Google Kubernetes Engine(GKE)](https://github.com/ovokpus/GKE-Application-Deployment)
 5. [GKE Multi-Tenant Cluster Management with Terraform Implementation Playbook](https://github.com/ovokpus/gke-multi-tenant-app/tree/main)
+6. [US Cities API Backend](https://github.com/ovokpus/us-city-api)
+7. [News Frontend Application - React](https://github.com/ovokpus/google-news-app)
+8. [Valkyrie App - Deploying a golang Application with Kubernetes on Google Cloud](https://github.com/ovokpus/valkyrie-app)
+9. [Report Notification Service - Resilient, Asynchronous Notification System with NodeJS, Cloud Run and Pub/Sub](https://github.com/ovokpus/report-notification-service)
+10. [Google Cloud Architecture: GKE Design, Implementations, Optimizations and Management](https://github.com/ovokpus/GKE-Cluster-Management)
+11. [REST API with Go, Firebase and Cloud Run](https://github.com/ovokpus/customer-data-rest-api)
+12. [Serverless App with Cloud Run that Creates PDF Files with Golang and PubSub](https://github.com/ovokpus/cloud-run-pdf-converter-GO)
+13. [Serverless App with Cloud Run that Creates PDF Files with Javascript and PubSub](https://github.com/ovokpus/cloud-run-pdf-converter-JS)
 
 ## I Hope you have a great time going through them. Feedback is highly appreciated. -
