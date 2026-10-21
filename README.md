@@ -20,7 +20,7 @@
 
 ## 👋 Hi, I'm Ovo
 
-<img src="img/img1.jpg" align="right" width="340" alt="AI illustration">
+<p align="center"><img src="img/ai-systems.svg" alt="What I build: enterprise data, retrieval, agentic workflows, ML inference, production" width="100%"></p>
 
 I'm a **Senior AI Engineer and Technical Lead at [Tactable](https://tactable.io)**, where I own end-to-end delivery of production AI systems for **tier-1 Canadian banking and AdTech clients** across Microsoft Azure, GCP and AWS. I take RAG agents, agentic workflows, ML inference pipelines and full-stack AI apps from solution architecture through security review, compliance and deployment.
 
@@ -32,7 +32,6 @@ Making the switch into **Data Science** and ultimately **AI Engineering** has be
 
 📍 Calgary, Alberta · Remote-first · He/Him
 
-<br clear="right">
 
 ---
 
@@ -43,8 +42,8 @@ Making the switch into **Data Science** and ultimately **AI Engineering** has be
 | 🏦 | **Senior Engineer**, Production RAG Agent | Microsoft Azure AI stack for a tier-1 Canadian bank, answering questions across millions of documents |
 | 📺 | **Technical Lead**, DOOH AI Campaign Platform | Full-stack AI app for digital out-of-home campaign analysis and booking, architecture to production |
 | ⚙️ | **Technical Lead**, AdTech AIOps/MLOps | ML and AI classification inference for AdTech creatives at scale, with automated retraining on data drift |
-| 🧭 | **Co-Founder & CTO**, Mirantly | An AI-powered platform |
-| 🎓 | **Peer Supporter**, AI Makerspace | Breakout sessions on production LLM development, RAG and agentic workflows (since Sept 2025) |
+| 📐 | **Technical SME**, Spec-Driven Development | Enterprise banking in Canada |
+| 🎓 | **FDE Technical Expert (SME)**, AI Makerspace | AI Makerspace FDE Program |
 | ✍️ | **Digital Craftsmanship** | A newsletter on production AI patterns from the build floor. Launching soon |
 
 ---
@@ -147,48 +146,63 @@ Making the switch into **Data Science** and ultimately **AI Engineering** has be
 
 ## 🧰 Stack & tools
 
-**AI / Agents**<br>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white">
-<img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white">
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-
-**Cloud platforms**<br>
-<img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-
-**Data engineering**<br>
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white">
-<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white">
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white">
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-
-**Languages & frameworks**<br>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-
-**Infrastructure & DevOps**<br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/Bicep_IaC-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <b>🤖 AI / Agents</b><br><br>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white"><br>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <b>☁️ Cloud platforms</b><br><br>
+      <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=openai&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><br>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <b>🔧 Data engineering</b><br><br>
+      <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <b>💻 Languages & frameworks</b><br><br>
+      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"><br>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <b>🚢 Infrastructure & DevOps</b><br><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Bicep_IaC-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"><br>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <b>📊 ML & analytics</b><br><br>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"><br>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"><br>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -204,15 +218,7 @@ Making the switch into **Data Science** and ultimately **AI Engineering** has be
 
 ---
 
-## 📜 Certifications & education
-
-Over **40 professional certifications** across GCP, Azure, AWS, Databricks, dbt, Product Management and AI/ML, earned alongside active production work. See them on [Credly](https://www.credly.com/users/ovo) and [Accredible](https://scl.io/Rp328W3).
-
-<p>
-  <img src="https://img.shields.io/badge/GCP-Professional_ML_Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-AI_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-Database_Administrator_Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
-</p>
+## 🏫 Education
 
 | Credential | Institution |
 |---|---|
@@ -293,6 +299,120 @@ This is a sampling of the work I have been doing since I pivoted into data and A
 11. [REST API with Go, Firebase and Cloud Run](https://github.com/ovokpus/customer-data-rest-api)
 12. [Serverless App with Cloud Run that Creates PDF Files with Golang and PubSub](https://github.com/ovokpus/cloud-run-pdf-converter-GO)
 13. [Serverless App with Cloud Run that Creates PDF Files with Javascript and PubSub](https://github.com/ovokpus/cloud-run-pdf-converter-JS)
+
+</details>
+
+---
+
+## 📜 Certifications
+
+Over **40 professional certifications** across GCP, Azure, AWS, Databricks, dbt, Product Management and AI/ML, earned alongside active production work. See them on [Credly](https://www.credly.com/users/ovo) and [Accredible](https://scl.io/Rp328W3).
+
+<details open>
+<summary><b>☁️ Cloud & platform certifications</b> (19)</summary>
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Cloud-Professional%20Machine%20Learning%20Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud: Professional Machine Learning Engineer (May 2023)" title="May 2023">
+  <img src="https://img.shields.io/badge/Google%20Cloud-Professional%20Data%20Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud: Professional Data Engineer (Dec 2022)" title="Dec 2022">
+  <img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud: Associate Cloud Engineer (Oct 2023)" title="Oct 2023">
+  <img src="https://img.shields.io/badge/AWS-Certified%20Machine%20Learning%20%E2%80%93%20Specialty-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS: Certified Machine Learning – Specialty (Jun 2022)" title="Jun 2022">
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS: Certified Cloud Practitioner (Jan 2022)" title="Jan 2022">
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Engineer%20Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft: Azure AI Engineer Associate (Nov 2021)" title="Nov 2021">
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Data%20Scientist%20Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft: Azure Data Scientist Associate (Jul 2022)" title="Jul 2022">
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Data%20Engineer%20Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft: Azure Data Engineer Associate (Feb 2022)" title="Feb 2022">
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Database%20Administrator%20Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft: Azure Database Administrator Associate (Aug 2021)" title="Aug 2021">
+  <img src="https://img.shields.io/badge/Microsoft-Data%20Analyst%20Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft: Data Analyst Associate (Aug 2021)" title="Aug 2021">
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft: Azure AI Fundamentals (Sep 2021)" title="Sep 2021">
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Data%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft: Azure Data Fundamentals (Sep 2021)" title="Sep 2021">
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft: Azure Fundamentals (Jul 2021)" title="Jul 2021">
+  <img src="https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer%20Professional-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks: Certified Data Engineer Professional (Apr 2025)" title="Apr 2025">
+  <img src="https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer%20Associate-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks: Certified Data Engineer Associate (Mar 2025)" title="Mar 2025">
+  <img src="https://img.shields.io/badge/Databricks-Certified%20Machine%20Learning%20Associate-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks: Certified Machine Learning Associate (May 2025)" title="May 2025">
+  <img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate%20%28003%29-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="HashiCorp: Terraform Associate (003) (Jun 2024)" title="Jun 2024">
+  <img src="https://img.shields.io/badge/dbt%20Labs-dbt%20Developer%20%28Certified%20Analytics%20Engineer%29-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt Labs: dbt Developer (Certified Analytics Engineer) (Jul 2023)" title="Jul 2023">
+  <img src="https://img.shields.io/badge/Astronomer-Apache%20Airflow%20Fundamentals-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Astronomer: Apache Airflow Fundamentals (Jul 2022)" title="Jul 2022">
+</p>
+</details>
+
+<details open>
+<summary><b>🏅 Google Cloud skill badges</b> (13)</summary>
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Skill%20Badge-Develop%20Serverless%20Applications%20on%20Cloud%20Run-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="Skill Badge: Develop Serverless Applications on Cloud Run (Jun 2025)" title="Jun 2025">
+  <img src="https://img.shields.io/badge/Skill%20Badge-Optimize%20Costs%20for%20Google%20Kubernetes%20Engine-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="Skill Badge: Optimize Costs for Google Kubernetes Engine (Jun 2025)" title="Jun 2025">
+  <img src="https://img.shields.io/badge/Skill%20Badge-Cloud%20Architecture%3A%20Design%2C%20Implement%2C%20and%20Manage-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="Skill Badge: Cloud Architecture: Design, Implement, and Manage (Jun 2025)" title="Jun 2025">
+  <img src="https://img.shields.io/badge/Skill%20Badge-Create%20ML%20Models%20with%20BigQuery%20ML-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="Skill Badge: Create ML Models with BigQuery ML (May 2025)" title="May 2025">
+  <img src="https://img.shields.io/badge/Skill%20Badge-Build%20and%20Deploy%20Machine%20Learning%20Solutions%20on%20Vertex%20AI-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="Skill Badge: Build and Deploy Machine Learning Solutions on Vertex AI (May 2025)" title="May 2025">
+  <img src="https://img.shields.io/badge/Skill%20Badge-Implement%20DevOps%20Workflows%20in%20Google%20Cloud-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="Skill Badge: Implement DevOps Workflows in Google Cloud (Feb 2025)" title="Feb 2025">
+  <img src="https://img.shields.io/badge/Skill%20Badge-Deploy%2C%20Test%20%26%20Evaluate%20Gen%20AI%20Apps-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="Skill Badge: Deploy, Test & Evaluate Gen AI Apps (Dec 2024)" title="Dec 2024">
+  <img src="https://img.shields.io/badge/Skill%20Badge-Orchestrate%20PaLM%20LLM%20solutions%20with%20LangChain-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="Skill Badge: Orchestrate PaLM LLM solutions with LangChain (Dec 2024)" title="Dec 2024">
+  <img src="https://img.shields.io/badge/Skill%20Badge-L400%20AI%20Engineer%3A%20Build%20and%20Deploy%20a%20Generative%20AI%20Solution%20Using%20a%20RAG%20Framework-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="Skill Badge: L400 AI Engineer: Build and Deploy a Generative AI Solution Using a RAG Framework (Oct 2024)" title="Oct 2024">
+  <img src="https://img.shields.io/badge/Skill%20Badge-Develop%20Advanced%20Enterprise%20Search%20and%20Conversation%20Applications-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="Skill Badge: Develop Advanced Enterprise Search and Conversation Applications (Oct 2024)" title="Oct 2024">
+  <img src="https://img.shields.io/badge/Skill%20Badge-Integrate%20Vertex%20AI%20Search%20and%20Conversation%20into%20Voice%20and%20Chat%20Apps-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="Skill Badge: Integrate Vertex AI Search and Conversation into Voice and Chat Apps (Sep 2024)" title="Sep 2024">
+  <img src="https://img.shields.io/badge/Skill%20Badge-Text%20Prompt%20Engineering%20Techniques-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="Skill Badge: Text Prompt Engineering Techniques (Aug 2024)" title="Aug 2024">
+  <img src="https://img.shields.io/badge/Skill%20Badge-Set%20Up%20and%20Configure%20a%20Cloud%20Environment%20in%20Google%20Cloud-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="Skill Badge: Set Up and Configure a Cloud Environment in Google Cloud (Sep 2023)" title="Sep 2023">
+</p>
+</details>
+
+<details>
+<summary><b>📚 Other certifications & programs</b> (38)</summary>
+<br>
+
+<b>🤖 AI & machine learning</b>
+<p>
+  <img src="https://img.shields.io/badge/AI%20Makerspace-Certified%20AI%20Engineer-6F42C1?style=flat-square" alt="AI Makerspace: Certified AI Engineer (Aug 2025)" title="Aug 2025">
+  <img src="https://img.shields.io/badge/Databricks-Generative%20AI%20Fundamentals%20Accreditation-6F42C1?style=flat-square" alt="Databricks: Generative AI Fundamentals Accreditation (May 2025)" title="May 2025">
+  <img src="https://img.shields.io/badge/Educative-Collaborative%20Filtering%20Recommendation%20System-6F42C1?style=flat-square" alt="Educative: Collaborative Filtering Recommendation System (Dec 2023)" title="Dec 2023">
+  <img src="https://img.shields.io/badge/Educative-Become%20a%20Machine%20Learning%20Engineer-6F42C1?style=flat-square" alt="Educative: Become a Machine Learning Engineer (Jul 2022)" title="Jul 2022">
+  <img src="https://img.shields.io/badge/DataTalksClub-MLOps%20Zoomcamp-6F42C1?style=flat-square" alt="DataTalksClub: MLOps Zoomcamp (Sep 2022)" title="Sep 2022">
+  <img src="https://img.shields.io/badge/Amii-Machine%20Learning%20Foundations%202-6F42C1?style=flat-square" alt="Amii: Machine Learning Foundations 2 (Nov 2021)" title="Nov 2021">
+  <img src="https://img.shields.io/badge/Amii-Machine%20Learning%20Foundations%201-6F42C1?style=flat-square" alt="Amii: Machine Learning Foundations 1 (Sep 2021)" title="Sep 2021">
+  <img src="https://img.shields.io/badge/Educative-Natural%20Language%20Processing%20with%20Machine%20Learning-6F42C1?style=flat-square" alt="Educative: Natural Language Processing with Machine Learning (Nov 2021)" title="Nov 2021">
+  <img src="https://img.shields.io/badge/Educative-Image%20Recognition%20with%20Machine%20Learning-6F42C1?style=flat-square" alt="Educative: Image Recognition with Machine Learning (Oct 2021)" title="Oct 2021">
+  <img src="https://img.shields.io/badge/Cybera-Data%20Science%20Industry%20Fellowship%20%282021%29-6F42C1?style=flat-square" alt="Cybera: Data Science Industry Fellowship (2021) (Aug 2021)" title="Aug 2021">
+  <img src="https://img.shields.io/badge/Simplilearn-Data%20Scientist-6F42C1?style=flat-square" alt="Simplilearn: Data Scientist (Feb 2021)" title="Feb 2021">
+  <img src="https://img.shields.io/badge/IBM-Predictive%20Analytics%20Modeler%2C%20Intermediate-6F42C1?style=flat-square" alt="IBM: Predictive Analytics Modeler, Intermediate (Apr 2021)" title="Apr 2021">
+  <img src="https://img.shields.io/badge/IBM-Data%20Science%20in%20Real--life-6F42C1?style=flat-square" alt="IBM: Data Science in Real-life (Jan 2020)" title="Jan 2020">
+</p>
+
+<b>🔧 Data engineering & analytics</b>
+<p>
+  <img src="https://img.shields.io/badge/DataExpert.io-Zach%20Wilson%27s%20Free%20Data%20Engineering%20Bootcamp-0E7C86?style=flat-square" alt="DataExpert.io: Zach Wilson's Free Data Engineering Bootcamp (Jan 2025)" title="Jan 2025">
+  <img src="https://img.shields.io/badge/Educative-Become%20a%20Big%20Data%20Professional-0E7C86?style=flat-square" alt="Educative: Become a Big Data Professional (Jul 2024)" title="Jul 2024">
+  <img src="https://img.shields.io/badge/Educative-Big%20Data%20Mastery-0E7C86?style=flat-square" alt="Educative: Big Data Mastery (Mar 2024)" title="Mar 2024">
+  <img src="https://img.shields.io/badge/Sundog%20Education-The%20Ultimate%20Hands--On%20Hadoop%3A%20Tame%20your%20Big%20Data-0E7C86?style=flat-square" alt="Sundog Education: The Ultimate Hands-On Hadoop: Tame your Big Data (Mar 2024)" title="Mar 2024">
+  <img src="https://img.shields.io/badge/dbt%20Labs-dbt%20Fundamentals-0E7C86?style=flat-square" alt="dbt Labs: dbt Fundamentals (Sep 2022)" title="Sep 2022">
+  <img src="https://img.shields.io/badge/IBM-Business%20Intelligence%20Analyst%2C%20Intermediate-0E7C86?style=flat-square" alt="IBM: Business Intelligence Analyst, Intermediate (Jun 2021)" title="Jun 2021">
+  <img src="https://img.shields.io/badge/Microsoft-MTA%3A%20Database%20Fundamentals-0E7C86?style=flat-square" alt="Microsoft: MTA: Database Fundamentals (Mar 2021)" title="Mar 2021">
+  <img src="https://img.shields.io/badge/Microsoft-Excel%20Expert%20%28Office%202016%29-0E7C86?style=flat-square" alt="Microsoft: Excel Expert (Office 2016) (Mar 2021)" title="Mar 2021">
+  <img src="https://img.shields.io/badge/GE-Digital%20Technology%20Data%20Analytics%20Program-0E7C86?style=flat-square" alt="GE: Digital Technology Data Analytics Program (Jan 2021)" title="Jan 2021">
+  <img src="https://img.shields.io/badge/KPMG%20Australia-Data%20Analytics%20Consulting%20Virtual%20Internship-0E7C86?style=flat-square" alt="KPMG Australia: Data Analytics Consulting Virtual Internship (Aug 2020)" title="Aug 2020">
+</p>
+
+<b>🧭 Product, strategy & leadership</b>
+<p>
+  <img src="https://img.shields.io/badge/Quantellia-Certified%20Decision%20Intelligence%20Analyst-B5651D?style=flat-square" alt="Quantellia: Certified Decision Intelligence Analyst (Sep 2026)" title="Sep 2026">
+  <img src="https://img.shields.io/badge/CTO%20Academy-Digital%20MBA%20for%20Technology%20Leaders-B5651D?style=flat-square" alt="CTO Academy: Digital MBA for Technology Leaders (Feb 2026)" title="Feb 2026">
+  <img src="https://img.shields.io/badge/Product%20School-Product%20Strategy%20Micro--Certification-B5651D?style=flat-square" alt="Product School: Product Strategy Micro-Certification (Dec 2025)" title="Dec 2025">
+  <img src="https://img.shields.io/badge/Product%20Faculty-AI%20Product%20Management%20Certification%2C%20Winter%202025-B5651D?style=flat-square" alt="Product Faculty: AI Product Management Certification, Winter 2025 (Nov 2025)" title="Nov 2025">
+  <img src="https://img.shields.io/badge/Maven-Advanced%20Product%20Management%20Training-B5651D?style=flat-square" alt="Maven: Advanced Product Management Training (Sep 2025)" title="Sep 2025">
+  <img src="https://img.shields.io/badge/Product%20Faculty-Advanced%20Product%20Management%20Certificate%2C%20Summer%202025-B5651D?style=flat-square" alt="Product Faculty: Advanced Product Management Certificate, Summer 2025 (Sep 2025)" title="Sep 2025">
+  <img src="https://img.shields.io/badge/Quantellia-GSWDI%20Certificate%20of%20Distinction-B5651D?style=flat-square" alt="Quantellia: GSWDI Certificate of Distinction (Apr 2024)" title="Apr 2024">
+  <img src="https://img.shields.io/badge/FutureCIOClub-Agile%20Frameworks%20for%20Leaders-B5651D?style=flat-square" alt="FutureCIOClub: Agile Frameworks for Leaders (Mar 2024)" title="Mar 2024">
+  <img src="https://img.shields.io/badge/FutureCIOClub-Strategy%20Language%20for%20IT%20Leaders-B5651D?style=flat-square" alt="FutureCIOClub: Strategy Language for IT Leaders (Feb 2024)" title="Feb 2024">
+  <img src="https://img.shields.io/badge/FutureCIOClub-Ultimate%20IT%20Leadership%20Course-B5651D?style=flat-square" alt="FutureCIOClub: Ultimate IT Leadership Course (Dec 2023)" title="Dec 2023">
+</p>
+
+<b>💻 Software & infrastructure</b>
+<p>
+  <img src="https://img.shields.io/badge/QA%20North%20America-The%20Infrastructure%20Developer%27s%20Guide%20to%20Terraform%3A%20GCP%20Edition-2F363D?style=flat-square" alt="QA North America: The Infrastructure Developer's Guide to Terraform: GCP Edition (May 2024)" title="May 2024">
+  <img src="https://img.shields.io/badge/QA%20North%20America-Serverless%20Python%20Web%20Development%20for%20AWS-2F363D?style=flat-square" alt="QA North America: Serverless Python Web Development for AWS (May 2022)" title="May 2022">
+  <img src="https://img.shields.io/badge/Educative-Become%20a%20Flask%20Developer-2F363D?style=flat-square" alt="Educative: Become a Flask Developer (Apr 2022)" title="Apr 2022">
+  <img src="https://img.shields.io/badge/Educative-Web%20Application%20and%20Software%20Architecture%20101-2F363D?style=flat-square" alt="Educative: Web Application and Software Architecture 101 (Mar 2022)" title="Mar 2022">
+  <img src="https://img.shields.io/badge/ComIT-Node.js%20Developer-2F363D?style=flat-square" alt="ComIT: Node.js Developer (Dec 2020)" title="Dec 2020">
+</p>
 
 </details>
 
