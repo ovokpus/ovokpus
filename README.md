@@ -13,7 +13,7 @@
   <a href="https://digital-craftsmanship.vercel.app/portfolio"><img src="https://img.shields.io/badge/Portfolio-Digital%20Craftsmanship-0B1D3A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/ovokpus"><img src="https://img.shields.io/badge/LinkedIn-ovokpus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.credly.com/users/ovo"><img src="https://img.shields.io/badge/Credly-40%2B%20Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
-  <img src="https://komarev.com/ghpvc/?username=ovokpus&style=for-the-badge&label=Profile%20views&color=1E90FF" alt="Profile views">
+  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fovokpus%2Fovokpus&label=PROFILE%20VIEWS&labelColor=%230B1D3A&countColor=%231E90FF&style=for-the-badge" alt="Profile views">
 </p>
 
 ---
