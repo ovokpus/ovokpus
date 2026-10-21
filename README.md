@@ -13,6 +13,7 @@
   <a href="https://digital-craftsmanship.vercel.app/portfolio"><img src="https://img.shields.io/badge/Portfolio-Digital%20Craftsmanship-0B1D3A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/ovokpus"><img src="https://img.shields.io/badge/LinkedIn-ovokpus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.credly.com/users/ovo"><img src="https://img.shields.io/badge/Credly-40%2B%20Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
+  <a href="https://www.credential.net/profile/ovookpubuluku516370/wallet"><img src="https://img.shields.io/badge/Accredible-Credential%20Wallet-1B6AC9?style=for-the-badge" alt="Accredible"></a>
   <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fovokpus%2Fovokpus&label=PROFILE%20VIEWS&labelColor=%230B1D3A&countColor=%231E90FF&style=for-the-badge" alt="Profile views">
 </p>
 
@@ -311,7 +312,7 @@ This is a sampling of the work I have been doing since I pivoted into data and A
 
 ## 📜 Certifications
 
-Over **40 professional certifications** across GCP, Azure, AWS, Databricks, dbt, Product Management and AI/ML, earned alongside active production work. See them on [Credly](https://www.credly.com/users/ovo) and [Accredible](https://scl.io/Rp328W3).
+Over **40 professional certifications** across GCP, Azure, AWS, Databricks, dbt, Product Management and AI/ML, earned alongside active production work. See them on [Credly](https://www.credly.com/users/ovo) and [Accredible](https://www.credential.net/profile/ovookpubuluku516370/wallet).
 
 <details open>
 <summary><b>☁️ Cloud & platform certifications</b> (19)</summary>
