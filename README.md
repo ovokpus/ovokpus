@@ -1,109 +1,237 @@
-# Hi there, my name is Ovo, and welcome to my Profile Page! I am glad you made it this far... 👋
-
-<div align="right">
-    <img src="https://hits.sh/github.com/ovokpus/ovokpus.svg?style=flat-square&label=Profile%20views&color=blue&labelColor=555" alt="profile views">
-</div>
-
-<h2 align="center"><em> I am a Senior AI Engineer & Technical Leader with a keen focus on Analytics workloads, AI, Machine Learning, and Cloud Development Operations. </em></h2>
-
-<p>My professional background and experience has centered around leading code implementations within project executions, interfacing with clients in order to understand their needs and requirements, as well as advancing data pipeline architectures and production AI systems. My clients are tier-1 banks and AdTech companies, on GCP, AWS and Azure.
+<!-- Header -->
+<p align="center">
+  <img src="img/banner.svg" alt="Ovo Okpubuluku, Senior AI Engineer and Technical Lead" width="100%">
 </p>
 
-<p>My contributions (from design to delivery) have enabled efficient and scalable data and AI solutions, reducing infrastructure costs significantly. Within this dynamic environment, my proficiency in Data Engineering, AI, as well as knowledge of Machine Learning Operations has been pivotal to successfully delivering production RAG agents, agentic workflows, and complex analytics workloads on the cloud.
+<p align="center">
+  <a href="https://digital-craftsmanship.vercel.app/portfolio">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=1E90FF&center=true&vCenter=true&width=720&lines=Production+RAG+agents+for+tier-1+Canadian+banking;Agentic+workflows+with+LangGraph+%26+Qdrant;AIOps%2FMLOps+for+AdTech+inference+at+scale;Banking+ops+%E2%86%92+Energy+field+crews+%E2%86%92+AI+Engineering" alt="Typing intro">
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://digital-craftsmanship.vercel.app/portfolio"><img src="https://img.shields.io/badge/Portfolio-Digital%20Craftsmanship-0B1D3A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/ovokpus"><img src="https://img.shields.io/badge/LinkedIn-ovokpus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.credly.com/users/ovo"><img src="https://img.shields.io/badge/Credly-40%2B%20Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
+  <img src="https://hits.sh/github.com/ovokpus/ovokpus.svg?style=for-the-badge&label=Profile%20views&color=1E90FF&labelColor=0B1D3A" alt="Profile views">
+</p>
+
+---
+
+## 👋 Hi, I'm Ovo
+
+<img src="img/img1.jpg" align="right" width="340" alt="AI illustration">
+
+I'm a **Senior AI Engineer and Technical Lead at [Tactable](https://tactable.io)**, where I own end-to-end delivery of production AI systems for **tier-1 Canadian banking and AdTech clients** across Microsoft Azure, GCP and AWS. I take RAG agents, agentic workflows, ML inference pipelines and full-stack AI apps from solution architecture through security review, compliance and deployment.
+
+I'm also **Co-Founder and CTO of Mirantly**, an AI-powered platform.
+
+Before tech, I spent over a decade leading teams under real consequence: running bank branch operations in Nigeria with a zero-fraud record, then leading safety-critical field crews in Alberta's energy sector. That background still shapes how I deliver. I own the work end to end, I care about risk, and I bring people along.
+
+Making the switch into **Data Science** and ultimately **AI Engineering** has been the best career decision I have made.
+
+📍 Calgary, Alberta · Remote-first · He/Him
+
+<br clear="right">
+
+---
+
+## 🛠️ What I'm doing now
+
+| | Role | Focus |
+|:-:|---|---|
+| 🏦 | **Senior Engineer**, Production RAG Agent | Microsoft Azure AI stack for a tier-1 Canadian bank, answering questions across millions of documents |
+| 📺 | **Technical Lead**, DOOH AI Campaign Platform | Full-stack AI app for digital out-of-home campaign analysis and booking, architecture to production |
+| ⚙️ | **Technical Lead**, AdTech AIOps/MLOps | ML and AI classification inference for AdTech creatives at scale, with automated retraining on data drift |
+| 🧭 | **Co-Founder & CTO**, Mirantly | An AI-powered platform |
+| 🎓 | **Peer Supporter**, AI Makerspace | Breakout sessions on production LLM development, RAG and agentic workflows (since Sept 2025) |
+| ✍️ | **Digital Craftsmanship** | A newsletter on production AI patterns from the build floor. Launching soon |
+
+---
+
+## 🧭 Career arc
+
+<p align="center"><img src="img/career-arc.svg" alt="Career arc: banking, energy, data and AI" width="100%"></p>
+
+<table>
+  <tr>
+    <th>Years</th><th>Role</th><th>Highlights</th>
+  </tr>
+  <tr>
+    <td><b>2025 – now</b></td>
+    <td><b>Senior AI Engineer & Technical Lead</b><br><sub>Tactable · Remote, Canada</sub></td>
+    <td>Production AI for a tier-1 Canadian bank and global AdTech clients: RAG agents, agentic workflows, ML inference pipelines, a full-stack AI campaign platform.</td>
+  </tr>
+  <tr>
+    <td><b>2022 – 2025</b></td>
+    <td><b>Data Engineer → Senior Data Engineer</b><br><sub>Badal by TELUS Digital · Remote, Canada</sub></td>
+    <td>Led sprint execution for data teams serving tier-1 banks. Hadoop-to-GCP migration for BNS's Global Data Analytics Platform, dbt/BigQuery/Composer CI/CD, agentic AI on private Vertex AI endpoints.</td>
+  </tr>
+  <tr>
+    <td><b>2022</b></td>
+    <td><b>Data Engineer</b><br><sub>Totogi (a TelcoDR company)</sub></td>
+    <td>Led technical delivery of the Totogi–AWS 4G/5G VoLTE pilot on Magma Core. Telco data pipelines on AWS Glue, DynamoDB and Athena.</td>
+  </tr>
+  <tr>
+    <td><b>2021</b></td>
+    <td><b>Applied ML Engineer</b><br><sub>ReVisionz Inc · Calgary</sub></td>
+    <td>YOLO object detection and Azure OCR for Suncor Energy's Asset Data Lake Platform, cutting costs by more than 50%.</td>
+  </tr>
+  <tr>
+    <td><b>2021</b></td>
+    <td><b>Data Science Fellow</b><br><sub>Cybera Inc & Hockey AI</sub></td>
+    <td>Helped develop a recommender system PoC.</td>
+  </tr>
+  <tr>
+    <td><b>2015 – 2020</b></td>
+    <td><b>Plant Lead & Crew Lead</b><br><sub>Alberta energy sector</sub></td>
+    <td>Led safety-critical field crews for Suncor, Shell, MEG and Enbridge. Co-chaired the Joint Health and Safety Committee at Precise Downhole Solutions.</td>
+  </tr>
+  <tr>
+    <td><b>2006 – 2013</b></td>
+    <td><b>Head of Branch Operations</b><br><sub>FCMB & FirstBank · Nigeria</sub></td>
+    <td>Ran branch operations across two locations: staff, enterprise risk, vault and profitability. Change agent for a bank-wide transformation. Zero-fraud record.</td>
+  </tr>
+</table>
+
+---
+
+## 🏗️ Production work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏦 Enterprise RAG Agent</h4>
+      <sub>FINANCIAL SERVICES · AZURE</sub><br><br>
+      RAG agent for a tier-1 Canadian bank, answering questions across millions of documents. Delivered through security review, compliance and enterprise audit.<br><br>
+      <code>Azure AI Foundry</code> <code>Azure OpenAI</code> <code>Qdrant</code> <code>LangGraph</code> <code>FastAPI</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📺 AI Campaign Management Platform</h4>
+      <sub>ADTECH · FULL STACK</sub><br><br>
+      Full-stack AI application for DOOH campaign analysis and booking. Owned the delivery lifecycle from architecture to production.<br><br>
+      <code>Azure Container Apps</code> <code>Bicep</code> <code>LangGraph</code> <code>React</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ ML Inference & Retraining Pipeline</h4>
+      <sub>ADTECH · MLOPS</sub><br><br>
+      Production maintenance and retraining for a classification inference system serving AdTech creatives at scale, with retraining triggered by data drift.<br><br>
+      <code>ONNX Runtime</code> <code>Azure ML</code> <code>Docker</code> <code>Python</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ Hadoop → GCP Data Lake Modernization</h4>
+      <sub>FINANCIAL SERVICES · GCP</sub><br><br>
+      CI/CD analytics pipeline moving Bank of Nova Scotia's on-prem Hadoop data lake and warehouse to GCP. Hive/Spark ETL, Qlik, SFTP and TAMR datasets.<br><br>
+      <code>BigQuery</code> <code>dbt</code> <code>Cloud Composer</code> <code>Dataproc</code> <code>Terraform</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Agentic AI Workflow Suite</h4>
+      <sub>FINANCIAL SERVICES · AGENTIC</sub><br><br>
+      Multi-agent workflows for Regulatory Reporting, Customer Service and domain research, with human-in-the-loop oversight on privately hosted Vertex AI.<br><br>
+      <code>LangGraph</code> <code>LangSmith</code> <code>Qdrant</code> <code>Vertex AI</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛢️ Asset Data Lake Computer Vision</h4>
+      <sub>ENERGY · COMPUTER VISION</sub><br><br>
+      Object detection and OCR on industrial asset data for Suncor Energy, cutting costs by <b>more than 50%</b>.<br><br>
+      <code>YOLO</code> <code>Azure Cognitive Services</code> <code>Python</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Stack & tools
+
+**AI / Agents**<br>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white">
+<img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white">
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+**Cloud platforms**<br>
+<img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+
+**Data engineering**<br>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white">
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white">
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+
+**Languages & frameworks**<br>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+
+**Infrastructure & DevOps**<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Bicep_IaC-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
+
+---
+
+## 🎓 Teaching & mentorship
+
+| Where | When | What |
+|---|---|---|
+| 🤖 **AI Makerspace** | Sept 2025 – now | Peer Supporter, AI Engineering Bootcamp. Breakouts on LLMs in production, RAG and agentic AI |
+| 🏫 **Lighthouse Labs** | 2021 – 2024 | Mentor in Data Science & Analytics. Bootcamp and corporate GenAI training, code reviews, curriculum support |
+| ✍️ **Digital Craftsmanship** | 2026 | Newsletter on production AI patterns, translated into frameworks engineers can use. Launching soon |
+
+💬 *Ask me about how to pivot into a tech career.*
+
+---
+
+## 📜 Certifications & education
+
+Over **40 professional certifications** across GCP, Azure, AWS, Databricks, dbt, Product Management and AI/ML, earned alongside active production work. See them on [Credly](https://www.credly.com/users/ovo) and [Accredible](https://scl.io/Rp328W3).
 
 <p>
-As a former Mentor at Lighthouse Labs (2021–2024), I've imparted Data Science & Analytics expertise, guiding interns and shaping learning content for future data professionals. Since September 2025 I have been a Peer Supporter for the AI Engineering Bootcamp at AI Makerspace, leading breakout sessions on production LLM development, RAG and agentic workflows. Before tech, I spent 15+ years leading teams. I ran bank branch operations in Nigeria and led safety-critical field crews in Alberta's energy sector. That background still shapes how I deliver: I own the work end to end, I care about risk, and I bring people along.
+  <img src="https://img.shields.io/badge/GCP-Professional_ML_Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-AI_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-Database_Administrator_Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
 </p>
 
-<p>I enjoy working with data, discovering valuable insights that help solve problems for businesses and other types of organizations.</p>
+| Credential | Institution |
+|---|---|
+| Digital MBA, Technology Leadership | CTO Academy |
+| MBA, Startup Ecosystems *(in progress)* | Augment Business School |
+| Product Management with AI | Product Faculty |
+| Data Science & Analytics | Bow Valley College |
+| BAppTech, Petroleum Engineering | SAIT, Calgary |
+| BSc, Industrial Chemistry | University of Benin, Nigeria |
 
-<p>My commitment to excellence is reflected in how I contributed (and in some cases, led) team efforts to enhance the analytical and AI capabilities of our clients. Through collaboration, we've overcome project challenges and delivered robust data modeling solutions, leveraging our expertise in data architecture and our strategic use of dbt and BigQuery with Airflow Orchestration, migrating of Hadoop workloads from On Prem to Google Cloud Platform, as well as Databricks Workflows for continuous integration and deployment. </p>
+---
 
-<hr>
-<div align="right"><img src="img/img1.jpg"></div>
-</hr>
+## 📂 Projects & repositories
 
-<hr>
-<p>This is a sampling of the work I have been doing for the past couple of years, since I made a major career pivot into Data Science. Programming and developing solutions within the data space has become my passion and pursuit. I place a high value on personal growth and making positive contributions in a friendly team environment, and I am looking to do just that to help organizations build and develop their data strategy.</p>
-</hr>
+This is a sampling of the work I have been doing since I pivoted into data and AI. I place a high value on personal growth and making positive contributions in a friendly team environment. My all-time favourites are in the **Pinned Repositories** below. Here are the rest, grouped by area. Click to expand.
 
-<hr>
-<h2> Some things you should know about me 👇</h2>
-<ul>
-<li>👨‍💻 I'm currently a <em> Senior AI Engineer </em> at <strong>Tactable</strong> (since July 2025).</li>
-<li>🚀 Technical lead on full-stack AI product delivery for a DOOH ads campaign management platform.</li>
-<li>🚀 Technical lead on AIOps/MLOps for an ML and AI classification inference system serving AdTech creatives at scale.</li>
-<li>🚀 Senior engineer on a production RAG agent built on the Microsoft Azure AI stack for a tier-1 Canadian bank.</li>
-<li>👨‍🔬 Since September 2025 I have been a <em>Peer Supporter, AI Engineering Bootcamp</em> at <strong>AI Makerspace</strong>, leading breakout sessions on production LLM development, RAG and agentic workflows.</li>
-<li>👨‍💻 I was a <em> Data Engineer and then Senior Data Engineer </em> at <strong>Badal by TELUS Digital</strong> (2022–2025).</li>
-<li>👨‍💻 I used to be a <em> Data Engineer </em> at <strong>Totogi (A TelcoDR company)</strong> (2022).</li>
-<li>👨‍🔬 I helped out as a <em>Mentor in Data Science & Analytics</em> with <strong>The Lighthouse Labs Data Bootcamp</strong> (2021–2024).</li>
-<li>👨‍🔬 Before that, I was an <em>Applied ML Engineer</em> with <strong>ReVisionz Inc</strong> (2021).</li>
-<li>👨‍🔬 And before that, I was a <em>2021 Data Science Fellow, and helped develop a Recommender System PoC model</em> with <strong>Cybera Inc and Hockey AI (Actionable Insights)</strong>.</li>
-<li>🏦 Before tech, I was <em>Head of Branch Operations</em> at <strong>FCMB</strong> and a <em>Customer & Financial Services Representative</em> at <strong>FirstBank</strong>, Nigeria.</li>
-<li>🛠️ I led plant and field crews for <strong>Suncor, Shell, MEG and Enbridge</strong> operations in Alberta.</li>
-<li>☁  I have been learning and building <strong>AI Applications</strong> on various foundation models (LLMs). In addition, I am keeping up to date from time to time with various <em>Learning programs, bootcamps, individual and team projects, internships and fellowships</em>  <strong>since</strong> late 2019.</li>
-<li>👨‍🎓 Making this switch into <strong>Data Science</strong> and ultimately <strong>AI Engineering</strong> has become the best career decision I have made.</li>
-</ul>
-<hr>
-
-<h3>My Technical Knowledge Areas and Skillsets include 👨‍💻</h3>
-<div>
-    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/-POWER%20BI-pink">
-    <img src="https://img.shields.io/badge/-MICROSOFT%20AZURE-blue">
-    <img src="https://img.shields.io/badge/-T--SQL-blue">
-    <img src="https://img.shields.io/badge/-MACHINE%20LEARNING-brightgreen">
-    <img src="https://img.shields.io/badge/-DATABASE%20DESIGN%20AND%20ADMINISTRATION-red">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-    <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white">
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
-
-</div>
+<details>
+<summary><b>🤖 Machine Learning & AI Engineering</b> (12)</summary>
 <br>
-<hr>
-
-- 🔭 I am currently a Senior AI Engineer at Tactable (since July 2025). I am technical lead on full-stack AI product delivery for a DOOH ads campaign management platform, technical lead on AIOps/MLOps for an ML and AI classification inference system serving AdTech creatives at scale, and senior engineer on a production RAG agent built on the Microsoft Azure AI stack for a tier-1 Canadian bank.
-- 🌱 Since September 2025 I have been a Peer Supporter for the AI Engineering Bootcamp at AI Makerspace, leading breakout sessions on production LLM development, RAG and agentic workflows.
-- 🌱 At Badal by TELUS Digital (2022–2025) I was a Data Engineer and then a Senior Data Engineer. I worked on Bank of Nova Scotia's Global Data Analytics Platform with dbt, BigQuery and Cloud Composer CI/CD, migrated an on-prem Hadoop data lake to Dataproc, built agentic AI workflows with LangGraph, LangSmith, RAG and Qdrant, and designed a secure GenAI architecture on private Vertex AI endpoints.
-- 🌱 At Totogi (2022) I was a Data Engineer. I built telco data pipelines on AWS and led delivery on the Totogi–AWS 4G/5G pilot. Before that, at ReVisionz (2021), I was an Applied ML Engineer and used YOLO and Azure OCR for Suncor's asset data lake, cutting costs by more than 50%.
-
-- 💬 Ask me about how to pivot into a tech career
-- 📫 How to reach me: [linkedin.com/in/ovokpus](https://www.linkedin.com/in/ovokpus)
-- 😄 Pronouns: He/Him
-
----
-
-- ## ⚡ Fun fact: I still have not yet seen "Star Wars"! Maybe someday, don't hold your breath! -
-
-## Certifications and Credentials
-
-You can find my professional certifications in [Credly](https://www.credly.com/users/ovo) and also in [Accredible](https://scl.io/Rp328W3)
-
-- 🎓 **Certifications:** Google Cloud Professional ML Engineer · Microsoft Azure AI Fundamentals · Azure Database Administrator Associate
-- 📚 **Current studies:** Digital MBA in Technology Leadership, CTO Academy · Digital MBA in Startup Ecosystems, Augment Business School
-- 🏫 **Earlier education:** BAppTech in Petroleum Engineering, SAIT · BSc in Industrial Chemistry, University of Benin
-
----
-
-## Find below links to some of my projects and repositories 👇.
-
-My all time favorites are linked below in the Pinned Repositories. But here are others as well:
-
-### Machine Learning and AI Engineering Projects
 
 1. [Retrieval-Augmented Generative AI Q&A Solution for Food Safety](https://github.com/ovokpus/vertex-gen-ai)
 2. [Python-Azure-AI-REST-APIs](https://github.com/ovokpus/Python-Azure-AI-REST-APIs)
@@ -118,7 +246,11 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 11. [Azure Machine Learning Project](https://github.com/ovokpus/Azure-Machine-Learning-Project)
 12. [Employee Attrition Predictor](https://github.com/ovokpus/Employee-Attrition-Predictor)
 
-### Data Engineering Projects
+</details>
+
+<details>
+<summary><b>🔧 Data Engineering</b> (10)</summary>
+<br>
 
 1. [AWS ETL Pipeline](https://github.com/ovokpus/AWS-ETL-Pipeline)
 2. [Azure Streaming Pipeline](https://github.com/ovokpus/Azure-Streaming-Pipeline)
@@ -131,19 +263,27 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 9. [Airflow Learning Project - Astronomer](https://github.com/ovokpus/my-airflow-learning-project)
 10. [Spark Application in Java](https://github.com/ovokpus/Java-Spark-Batch-Application/tree/main)
 
-### Data Science & Analytics Projects
+</details>
+
+<details>
+<summary><b>📊 Data Science & Analytics</b> (4)</summary>
+<br>
 
 1. [Salary Prediction Prototype](https://github.com/ovokpus/Salary-Prediction)
 2. [Car Manufacturing Test](https://github.com/ovokpus/Car-Manufacturing-Test)
 3. [Customer Segmentation using RFM modelling and K-Means Clustering](https://github.com/ovokpus/Customer-Segmentation)
-4. And here is my [Business Intelligence Gallery](https://github.com/ovokpus/my-bi-gallery)
+4. [Business Intelligence Gallery](https://github.com/ovokpus/my-bi-gallery)
 
-### Other Projects and implementation Playbooks (Frontend, Backend, Infrastructure/DevOps Deployment)
+</details>
+
+<details>
+<summary><b>☁️ Cloud, Infrastructure & Full-Stack Playbooks</b> (13)</summary>
+<br>
 
 1. [Managing a GKE Multi-tenant Cluster with Namespaces](https://github.com/ovokpus/gke-multi-tenant-app)
 2. [Building and Deploying a Docker image to a GKE Cluster](https://github.com/ovokpus/docker-gke-deploy)
 3. [Deploying Google Cloud Applications with Terraform](https://github.com/ovokpus/GCP-Terraform-App-Deployment)
-4. [Application Deployment with Google Kubernetes Engine(GKE)](https://github.com/ovokpus/GKE-Application-Deployment)
+4. [Application Deployment with Google Kubernetes Engine (GKE)](https://github.com/ovokpus/GKE-Application-Deployment)
 5. [GKE Multi-Tenant Cluster Management with Terraform Implementation Playbook](https://github.com/ovokpus/gke-multi-tenant-app/tree/main)
 6. [US Cities API Backend](https://github.com/ovokpus/us-city-api)
 7. [News Frontend Application - React](https://github.com/ovokpus/google-news-app)
@@ -154,4 +294,18 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 12. [Serverless App with Cloud Run that Creates PDF Files with Golang and PubSub](https://github.com/ovokpus/cloud-run-pdf-converter-GO)
 13. [Serverless App with Cloud Run that Creates PDF Files with Javascript and PubSub](https://github.com/ovokpus/cloud-run-pdf-converter-JS)
 
-## I Hope you have a great time going through them. Feedback is highly appreciated. -
+</details>
+
+---
+
+> ⚡ **Fun fact:** I still have not seen *Star Wars*. Maybe someday. Don't hold your breath!
+
+<p align="center">
+  <b>Let's connect</b><br><br>
+  <a href="https://www.linkedin.com/in/ovokpus"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://digital-craftsmanship.vercel.app/portfolio"><img src="https://img.shields.io/badge/Portfolio-0B1D3A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/ovokpus?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories"></a>
+  <br><br>
+  <sub>Thanks for making it this far. Feedback is always appreciated.</sub>
+</p>
+
