@@ -25,8 +25,6 @@
 
 I'm a **Senior AI Engineer and Technical Lead at [Tactable](https://tactable.io)**, where I own end-to-end delivery of production AI systems for **tier-1 Canadian banking and AdTech clients** across Microsoft Azure, GCP and AWS. I take RAG agents, agentic workflows, ML inference pipelines and full-stack AI apps from solution architecture through security review, compliance and deployment.
 
-I'm also **Co-Founder and CTO of Mirantly**, an AI-powered platform.
-
 Before tech, I spent over a decade leading teams under real consequence: running bank branch operations in Nigeria with a zero-fraud record, then leading safety-critical field crews in Alberta's energy sector. That background still shapes how I deliver. I own the work end to end, I care about risk, and I bring people along.
 
 Making the switch into **Data Science** and ultimately **AI Engineering** has been the best career decision I have made.
