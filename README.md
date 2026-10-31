@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="img/banner.svg" alt="Ovo Okpubuluku, Senior AI Engineer and Technical Lead" width="100%">
+  <img src="img/banner.svg?v=2" alt="Ovo Okpubuluku, Senior AI Engineer and Technical Lead" width="100%">
 </p>
 
 <p align="center">
